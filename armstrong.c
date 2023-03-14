@@ -18,8 +18,6 @@ int main(){
 		printf("%d armstrong sayisi degil",sayi);
 	}
 	
-	
-	
 	return 0;
 	
 }
